@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "台灣麻將",
+  "short_name": "台灣麻將",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3e8",
+  "theme_color": "#163f35"
+}
